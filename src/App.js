@@ -4,9 +4,9 @@ import './App.css';
 function App() {
   return (
 <div>
-  <centre>
+  <center>
     <h1>tejas valsad</h1>
-  </centre>
+  </center>
     </div>
   );
 }
